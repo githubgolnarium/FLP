@@ -1,0 +1,31 @@
+{
+    "Home": {
+        "title": "Hello",
+        "menu": "Menu",
+        "navigation": {
+            "homePage": "Home Page",
+            "products": "Products",
+            "blogs": "Blogs",
+            "contactUS": "Contact Us",
+            "aboutUS": "About Us"
+        },
+        "miniabout": {
+            "brand": "FlexiPolymer",
+            "describe1": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sit dolor assumenda non iste sunt perferendis quidem deserunt minus molestiae laborum?",
+            "describe2": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Non vitae dolorum culpa beatae quibusdam placeat repudiandae impedit, eos repellendus incidunt maiores quae numquam quas nemo optio doloribus saepe? Minus iure perspiciatis consequuntur, commodi reiciendis expedita reprehenderit."
+        },
+        "products": {
+            "productCardButtonText": "Product List",
+            "allProducts": "View All Products"
+        },
+        "miniContact": {
+            "title": "{brand} Saless and Support",
+            "prideText": "mssss",
+            "contatctButton": "CONTACT"
+        },
+        "customers": {
+            "title": "Our Customers",
+            "prideText": "We Proud Our Customers"
+        }
+    }
+}

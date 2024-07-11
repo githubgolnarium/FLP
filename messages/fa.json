@@ -1,0 +1,31 @@
+{
+    "Home": {
+        "title": "سلام",
+        "menu": "منو",
+        "navigation": {
+            "homePage": "صفحه اصلی",
+            "products": "محصولات",
+            "blogs": "مقالات",
+            "contactUS": "تماس ما",
+            "aboutUS": "درباره ما"
+        },
+        "miniabout": {
+            "brand": "فلکسی پلیمر",
+            "describe1": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sit dolor assumenda non iste sunt perferendis quidem deserunt minus molestiae laborum?",
+            "describe2": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Non vitae dolorum culpa beatae quibusdam placeat repudiandae impedit, eos repellendus incidunt maiores quae numquam quas nemo optio doloribus saepe? Minus iure perspiciatis consequuntur, commodi reiciendis expedita reprehenderit."
+        },
+        "products": {
+            "productCardButtonText": "لیست محصولات",
+            "allProducts": "مشاهده محصولات"
+        },
+        "miniContact": {
+            "title": "بخش فروش و پشتیبانی {brand}",
+            "prideText": "mssss",
+            "contatctButton": "تماس با ما"
+        },
+        "customers": {
+            "title": "مشتریان ما",
+            "prideText": "ما به مشتریان خود میبالیم"
+        }
+    }
+}
